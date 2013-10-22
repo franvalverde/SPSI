@@ -10,7 +10,7 @@ Trabajo 27 de octubre de 2013
 
 - [ ] Cambiar números por otras letras (por periodos, ya os lo explico esta tarde mejor) -> jose
 
-- [ ] Contar numero de apariciones de cada letra -> fran
+- [X] Contar numero de apariciones de cada letra -> fran
 
 - [ ] Sacar IC y terminar trabajo -> rafa
 
