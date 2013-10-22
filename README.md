@@ -4,7 +4,7 @@ SPSI
 Trabajo 27 de octubre de 2013
 -----------------------------
 
-- [ ] leer fichero, quitar puntos, espacios y caracteres especiales ->  fran
+- [X] leer fichero, quitar puntos, espacios y caracteres especiales ->  fran
 
 - [ ] cambiar letras por números (a->1, b ->2 ...) -> jose
 
