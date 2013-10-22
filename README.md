@@ -8,7 +8,7 @@ Trabajo 27 de octubre de 2013
 
 - [X] cambiar letras por números (a->1, b ->2 ...) -> jose
 
-- [ ] Cambiar números por otras letras (por periodos, ya os lo explico esta tarde mejor) -> jose
+- [X] Cambiar números por otras letras (por periodos, ya os lo explico esta tarde mejor) -> jose
 
 - [X] Contar numero de apariciones de cada letra -> fran
 
